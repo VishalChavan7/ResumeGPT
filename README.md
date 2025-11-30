@@ -112,17 +112,17 @@ The frontend application will open at `http://localhost:3000`
 
 ```
 ResumeGPT/
-├── frontend/                 # React frontend application
-│   ├── public/              # Static files
+├── frontend/               # React frontend application
+│   ├── public/             # Static files
 │   ├── src/
-│   │   ├── components/      # React components
+│   │   ├── components/     # React components
 │   │   ├── pages/          # Page components
 │   │   ├── services/       # API service files
 │   │   ├── utils/          # Utility functions
 │   │   └── App.js          # Main App component
 │   └── package.json
 │
-├── backend/                 # Spring Boot backend
+├── backend/                # Spring Boot backend
 │   ├── src/
 │   │   ├── main/
 │   │   │   ├── java/
